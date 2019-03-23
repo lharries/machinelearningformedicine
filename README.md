@@ -8,6 +8,10 @@
 5. `pip install fastai`
 6. `jupyter notebook`
 
+## Classifying Metastatic Breast Cancer Tissue
+
+In this workshop, we will train a deep neural network to identify metastatic cancer in small image patches taken from larger digital pathology scans (an on-going [Kaggle competition](https://www.kaggle.com/c/histopathologic-cancer-detection)).
+
 ## Where to go next?
 
 1. Fast.ai - [Practical deep learning for coders](https://course.fast.ai/). “Learn how to build state of the art models without needing graduate-level math — but also without dumbing anything down”. I would highly recommend this course, although they suggest having at least one year of python beforehand.
