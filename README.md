@@ -7,3 +7,8 @@
 4. `pip install jupyter`
 5. `pip install fastai`
 6. `jupyter notebook`
+
+## Where to go next?
+
+1. Fast.ai - [Practical deep learning for coders](https://course.fast.ai/). “Learn how to build state of the art models without needing graduate-level math — but also without dumbing anything down”. I would highly recommend this course, although they suggest having at least one year of python beforehand.
+2. Andrew Ng's [Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning) - Arguably the most popular machine learning course. It starts with the fundamentals, as opposed to the top down approach of Fast.ai
